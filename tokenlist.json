@@ -18,7 +18,7 @@
         "symbol": "BTCB",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png"
+        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png"
     },
     {
         "name": "ETH",
@@ -26,7 +26,7 @@
         "symbol": "ETH",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png"
+        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
     },
     {
         "name": "ELT",
