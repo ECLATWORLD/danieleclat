@@ -37,9 +37,9 @@
         "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png"
     },
     {
-        "name": "BSC",
+        "name": "BNB_USDT",
         "address": "0x55d398326f99059fF775485246999027B3197955",
-        "symbol": "BSC",
+        "symbol": "BNB_USDT",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png"
