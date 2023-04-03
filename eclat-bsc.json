@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/ECLATWORLD/danieleclat/main/logobesc.png",
+  "logoURI": "https://raw.githubusercontent.com/ECLATWORLD/danieleclat/main/logoeclat.png",
   "keywords": [
     "msdc",
     "bsc"
@@ -15,19 +15,11 @@
   "tokens": [
     {
         "name": "Wrapped ECLAT",
-        "address": "0xBE864aA7e4F802B7F7a3be2Dc388b9D96E3f434c",
-        "symbol": "WBESC",
+        "address": "0x311c9255908cF032163aF82BC38548c00B112206",
+        "symbol": "WECLAT",
         "decimals": 18,
         "chainId": 535037,
-        "logoURI": "https://raw.githubusercontent.com/briannichols0702/danielbesc/main/logobesc.png"
-    },
-    {
-        "name": "BEANS",
-        "address": "0x91A46Fbf7D7a41f296457c937C782113078700b0",
-        "symbol": "BEANS",
-        "decimals": 18,
-        "chainId": 535037,
-        "logoURI": "https://raw.githubusercontent.com/briannichols0702/danielbesc/main/logobesc.png"
+        "logoURI": "https://raw.githubusercontent.com/ECLATWORLD/danieleclat/main/logoeclat.png"
     }
   ]
 }
