@@ -37,7 +37,7 @@
         "symbol": "ELT",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/ECLATWORLD/danieleclat/main/logoeclat.png"
     },
     {
         "name": "Binance-Peg BSC-USD",
