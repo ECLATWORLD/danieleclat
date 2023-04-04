@@ -42,10 +42,10 @@
     {
         "name": "Binance-Peg BSC-USD",
         "address": "0x55d398326f99059fF775485246999027B3197955",
-        "symbol": "BNB_USDT",
+        "symbol": "BSC-USD",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png"
+        "logoURI": "https://bscscan.com/token/images/busdt_32.png"
     }
   ]
 }
