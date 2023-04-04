@@ -37,7 +37,7 @@
         "symbol": "ELT",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://bscscan.com/token/images/eclat_32.png?=v30923"
+        "logoURI": "https://raw.githubusercontent.com/ECLATWORLD/danieleclat/main/logo-eclat.png"
     },
     {
         "name": "Binance-Peg BSC-USD",
@@ -45,7 +45,7 @@
         "symbol": "BSC-USD",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://bscscan.com/token/images/busdt_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ECLATWORLD/danieleclat/main/logo-bsc-usd.png"
     }
   ]
 }
